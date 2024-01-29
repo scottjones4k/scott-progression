@@ -1,0 +1,7 @@
+This year has been a pretty tough one for me, which has somewhat hampered my abilities to deliver above and beyond in all areas so I again leant into the motto "Only do what only you can do" and took a look at myself and my position and realised that what I have been working through this year has put me in a bit of a unique position to be able to contribute more within the mental health and neurodiversity space.
+
+##### Neurodiversity Celebration Week
+Back in March 23 I was banging the drum around NCW and the sessions on there, trying to get people involved and get people to listen to what these people were saying to increase awareness of some of the challenges and solutions within the domain. This is coming up again this year, and I have already committed to do the same within the MH Champ group.
+
+##### ADHD awareness month
+Once again, the focus here I had was all around awareness and visibility. As part of this month I ran a series of blog posts on HowNow around ADHD and some of the challenges around it talking about things like ADHD burnout, and executive dysfunction. This did spawn a bit of discussion amongst people, and there were a few people that benefitted from some of the tips and tricks that I shared. Writing some of these things down and openly sharing them amongst the club I did find very difficult to do - essentially admitting that some days my output may be zero and I can't do anything about it puts anyone in a very vulnerable place, especially if its not received in the way it is intended.
