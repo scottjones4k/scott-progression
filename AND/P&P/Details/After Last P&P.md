@@ -1,0 +1,6 @@
+After I went through P&P back in November 2022 with the help of my Career Scrum Team I set a set of goals based on what I needed to do to make it to the next level.  These goals were:
+- Organise hacks and enthuse the tech community using the AND Wellness tool as a base
+- Take part in as many initiatives as possible within the MH Champ space
+- Flex mentoring skills by taking on a mentor as part of the club mentoring programme
+
+When word came out that P&P was getting halted for a bit I took another look at what my goals were and what I actually wanted to stand for. With P&P not being an option, this basically invalidated my current goal so this gave me the chance to refocus on something meaningful with actual impact over and above just becoming a 5.2. I consulted my Career Scrum Team again and came back with a single medium term goal - [Being a Kick-Ass Tech Lead](Being%20a%20Kick-Ass%20Tech%20Lead.md). This reset my view and gave me a more targeted approach on how to work on the things that I actually needed to do to succeed in my role. Even when P&P came back, I was still working towards this goal and it wasn't the right thing for me to retarget again to make sure I'm checking the box for the next level. 
