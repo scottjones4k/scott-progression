@@ -2,29 +2,67 @@
 | Name | Scott Jones |
 | ---- | ---- |
 | Squad | Kenny |
-| Current Level | 5.1 |
-| Target Level | 5.2 |
+| Proposal | 5.1 -5.2 |
+| Career Growth Team | Hazel Anderson, Bev Hullock, Rob Newman |
+| CGT Support? | ✅  ❌ |
 | Skills Mosaic | [Mosaic](https://docs.google.com/spreadsheets/d/1BXshzbg8LUgAmbuItbt-kRz3tM549PDkzPxs2aWHojM/edit?usp=sharing) |
 | Last Progression | Nov 22 |
 | Role | Tech Lead (Billing) - Sky |
-##### Introduction
+#### Summary of Growth
 
-What have I done since last time I was here? I've turned myself off and on again and had a [bit of a reset](Details/Reset%20Year.md). I've [made goals, binned them and tried again](Details/After%20Last%20P&P.md). I've [wondered](Details/Wonder.md) how long before people realise I shouldn't be here. I've over-[shared](Details/Share.md) - massively (see previous comment) and [delighted](Details/Delight.md) people with my oddities. I've [grown a heck of a lot](Details/Summary%20of%20Growth.md), but what for? To be a [Kick-Ass Tech Lead](Details/Being%20a%20Kick-Ass%20Tech%20Lead.md) and a [solid line manager](Details/Learning%20to%20be%20a%20Manager.md). Now its just a question of [what's next](Details/What's%20Next.md)?
-##### Contents
-- [After Last P&P](Details/After%20Last%20P&P.md)
-- [Summary of Growth](Details/Summary%20of%20Growth.md)
-- [Squad Lead Summary](Details/Squad%20Lead%20Summary.md)
-- [Contribution to Culture](Details/Contribution%20to%20Culture.md)
-- [Wonder](Details/Wonder.md)
-- [Share](Details/Share.md)
-- [Delight](Details/Delight.md)
+When I left P&P in November I had a pretty solid idea of a few goals that I set myself early on which were aligned with what I was involved in at the time, and geared towards moving myself up to the next level in P&P. These goals were:
+- Organise hacks and enthuse the tech community using the AND Wellness tool as a base
+- Take part in as many initiatives as possible within the MH Champ space
+- Flex mentoring skills by taking on a mentor as part of the club mentoring programme
 
-Appendix:
-- [Feedback](Details/Feedback.md)
+The announcement of P&P being halted negated the reasons I had for setting my goals and with the help of my Career Growth Team I revisited them using both the chunking up, and then the chunking down methods to set a new single goal that actually resonated with what I wanted to do and the direction I wanted my development to take - "Become a Kick-Ass Tech Lead".
 
-TODO:
-- [Contribution to Culture](Details/Contribution%20to%20Culture.md)
-- [Share](Details/Share.md)
-- [Delight](Details/Delight.md)
-- [Squad Lead Summary](Details/Squad%20Lead%20Summary.md)
-- [Learning to be a manager](Details/Learning%20to%20be%20a%20manager.md)
+The goal was enabled primarily from recognition on client where I _at Sky's request, stepped into a leadership role within Service to provide much needed oversight of the work demands coming into both of the squads._ ([Adams Spotlight](Details/Adams%20Spotlight.md)). As I took on the tech lead role within the billing space my first responsibility was to the teams and to support them. With respect to the billing estate _Scott is very knowledgable in all areas relating to the bill, he's a one stop shop for technical queries. Scott is also the main point of contact when we relay information back to the business, he has a great ability of explaining the technical in a simplified manner._ ([Tom Rose](/AND/P&P/Feedback/Tom%20Rose.md)).
+
+In addition to domain knowledge, I am also seen as a primary technical expert in the space with _all members of the team know they can go to him for clarity on a number of questions including:_
+- *Solution design in the frontend*
+- *The correct services to use*
+- *Technical compliance*
+- *Security related concerns*
+([Kevin Charles](/AND/P&P/Feedback/Kevin%20Charles.md))
+
+This past year I have also been much more exposed to the delivery aspect of the tech lead role, specifically with the CX/D programme for Jigglypuff and Kerry for Psyducks. During planning events and regular sessions I have managed to bridge the gap between the work, the team and the stakeholders meaning I have been able to lead the team through multiple successful product increments, and to pull in Kerry delivery dates by 4 months. _I've been particularly impressed with Scott's ability to not only work closely with delivery stakeholders to build roadmaps for planning events, whilst providing technical steer on the complexity, but also on his ability to communicate these to the squad_ ([Joseph Frankish](/AND/P&P/Feedback/Joseph%20Frankish.md))
+
+Although my role now involves a lot of working with stakeholders, planning and update meetings and higher level technical input and decision making I am still able to get down into the weeds with the developers and _He is happy to get his hands dirty and work together with other members of team, leading by doing, for example pairing on the mock server work with Psyduck to increase knowledge sharing_ ([Jenny Warren](/AND/P&P/Feedback/Jenny%20Warren.md)). This is incredibly important as it means I can keep the connection with the dev teams, upskill them where possible and keep close to the work which I have to make decisions on. One of my greatest learnings though has been that it is not always possible to do that and fit it into my daily hours. How have I overcome this and been able to take control back over my schedule? _"Only do what only you can do"_. Some advice received this year which has since become a motto and is a critical piece of my puzzle for prioritising and scheduling. This has allowed me to question whether I am necessary in a number of engagements and to make better use of my time, ultimately providing more value for my time in a number of scenarios.
+
+Over the past year I have built up strong relationships with a number of key parties related to the work we engage in, from solution architects and principle engineers to delivery and project managers, not forgetting the EMs and SEMs I work with on a day to day basis. Within CX/D I have _made a good presence in PI planning with key stakeholders who trust his opinion and always makes himself available, often for calls at short notice and supporting the overall sizing and estimation_ ([Jenny Warren](/AND/P&P/Feedback/Jenny%20Warren.md)). I also recently instigating a workshop amongst key leading figures in digital building in which we built and committed to a digital billing strategy for the year where I successfully got business backing for my targets of deprecating our legacy bill system after migration to a newer stack, a framework for devolving and managing our test automation progress and progression plans for those within the team.
+
+Finally - the growth I have shared with others. I still have a passion for enabling, upskilling and equipping people with the tools they need to not only do their job, but excel in there and to want to push themselves harder. With my work with Kevin as his career coach _Scott has successfully helped me achieve 2 successfully P&P promotions from 3.3 => 4.1 then 4.1 => 4.2._ ([Kevin Charles](/AND/P&P/Feedback/Kevin%20Charles.md)). On the job upskilling is very important too, especially around code quality - _I've been really impressed by Scott's regular comms regarding design principles, where he shares a particular principle, providing suitable learning resources and outlining how the principle fits into our estate here at Sky._ ([Joseph Frankish](/AND/P&P/Feedback/Joseph%20Frankish.md))
+#### AND Culture
+The past year for me has been a massive year for me personally. This year I've finally managed to accept that my brain works a bit differently to most and the way in which I have to approach things and the tools which work for me has to be tweaked for me to get a lot more out of it. My contribution to club and culture has not been focussed around development, but around this journey I've been on, raising awareness, educating and generally just being out there with it to show others that in our club we have safe spaces for this.
+
+Primarily in club I'm a Mental Health First Aider, and Mental Health Champ. I class this as probably the most important thing I do for club (and Sky) and my situation puts me in a fantastic position to provide some more specialist support even though _his ability to cope with his own journey alongside supporting others with their own challenges is unbelievable. His openness about his own situation makes it easy for ANDi's to go on their own journey of discovery, which is even more impressive given that we know what a toll it could potentially take on him._ ([Adams Spotlight](Details/Adams%20Spotlight.md)).
+
+Specific things I have done in this space include raising awareness and starting conversations about Neurodiversity Celebration Week back in March, hosting a wellbeing day panel discussion on "_Keeping engaged and connected with AND and Club whilst on client_" also in March and writing a series of blog posts for ADHD awareness month touching on the basics, executive dysfunction and ADHD burnout amongst others. The blog posts were definitely some of the most difficult things I've done this year as they put me in a very vulnerable position at quite a fragile time but they succeeded in showing others that its OK to be that way as well as providing some tips to work through it.
+#### Wonder
+One of my biggest stretches of the year is taking on some line management responsibilities. Since the move to the super-squad I have been working alongside Hazel and Andy F to look after the squad taking on 2 reports with vastly different role and skill level. In doing this I have worked with them regularly, guiding them along their progression as well as taking point on their pastoral care with the assistance of Hazel - _He has actively sought out opportunities to develop into a leadership role, and asks for guidance and advice on a regular basis, but always positions this in a way that makes it clear that he's considered options first, which gives me confidence that he is approaching things in the right way and isn't looking to be told what to do._  ([Hazel Anderson](/AND/P&P/Feedback/Hazel%20Anderson.md))
+
+A large part of the progress I have made this year is not necessarily around learning new skills, but re-learning skills I already had, learning to do things in a way that suited me, rather than the more standard ways I had previously been taught. A prime example is prioritisation and time management. This is a skill I already had, since working at a senior level and with any level of autonomy it is critical to get by. As I moved into a lead role however managing 2 separate calendars, note taking and constantly changing todo lists with a calendar that had barely any gaps was constantly overwhelming and it took everything I had to just be present. Throughout the year I have experimented with different strategies and tools to help me to manage these things at the scale I need and now utilising colour coded calendars, automated syncing, an AI backed calendar/task management tool and a structured note taking application I now feel like I am winning, with hours free a week to dedicate to value add activities on top of attending required meetings, completing all required work and supporting others where it is needed. The next step (detailed later) is for me to look at taking that further, and redirecting some of my free time and energy back to AND rather than just onto client.
+#### Share
+One of the things to which I have enjoyed contributing to this year which is completely different from my day to day role is my contributions to the Human Library. I have taken part in 2 separate podcasts, during which we discussed the value and impact of both feedback and career growth teams. These were particularly rewarding since the actual recording of the sessions enlightened all contributors to different view points and made a positive impact to us even before it was shared with the wider club and to AND.
+
+My position within Kenny from its beginning back in January has put me in a very privileged position whereby I had the opportunity to work closely with Hazel in the setup and running of it, but also to help the newer, more junior members in the squad - _He has provided me with support and guidance personally, and I've found this invaluable in many situations. Scott also offers support and guidance to other ANDis and is clearly invested in their development and achievements, specifically Andy Jones who has benefitted greatly from Scott's influence, guidance and challenge._ ([Hazel Anderson](/AND/P&P/Feedback/Hazel%20Anderson.md))
+
+Specifically as a career coach _His guidance has gone beyond just how to develop technical prowess; he's equipped me with how to grow my leadership skills, how to convince / influence others, bigger picture thinking and a better understanding of industry dynamics that are crucial for more advanced positions._ ([Kevin Charles](/AND/P&P/Feedback/Kevin%20Charles.md))
+#### Delight
+The thing I am actually most proud of is being selected for the [Adams Spotlight](Adams%20Spotlight.md) as part of one of our BU updates. Within it, it highlights my move to tech lead at Sky and crucially the doors it has opened for the Billing teams. Even more so It acknowledges what I have done in the mental health space and the sometimes painful openness which I often don't consider as achievements.
+
+My greatest achievement on Sky is within Psyduck and within the Kerry project whereby I have had a strong hand in building out the mock server, in addition to working with solution designers and architects to get early sight and API spec sign-off which has given me all the pieces I need to work with the team to change their way of working to take the specs and sample/mock data as sources of truth with enough confidence we can begin work much earlier in the process. The net result of this has been shaving 4 months off of the Kerry delivery plan, bringing in scope one of my tech goals to migrate from the legacy bill app to the new one this calendar year.
+#### Squad Lead Summary
+
+@Hazel - I need to get something from you for this please :)
+#### Whats Next?
+
+My primary short term goal is to go through a realignment of my role and my values. As a result of my goal last year and the turbulence within AND I've found myself being 110% Sky and only 10% AND which has resulted in me being less an ANDi than I should be, and more invested in Sky. To achieve that I'm looking to level up my delegation and management skills ensuring the things I'm responsible and accountable for still get done to the best possible quality, but also that its done by the people best placed to do it and not always me.
+
+In freeing up more time to devote to AND my plan is to ramp up my contributions, firstly around content generation with blog posts and/or a lightning talk around the observability/monitoring domain where I'm hoping to explore the setup and impact at Sky, but also discuss a non commercial solution and why it is still important, drawing on my own systems setup for my house. 
+
+In addition, I will be reminding and equipping Sky to deal with the fact that I'm a consultant and not actually in it for the long haul. They are not currently in a position for me to roll off and be able to carry on without taking a serious hit at least in the knowledge space. Even if we keep the role and roll someone else into it, a tech lead position requires heavy investment and knowledge of the domain and is not a role which you can easily roll people in and out of.
+
+On a personal level, I'm still working through the vast amount of different approaches and tools available now to help me to succeed better in my current and future roles. I'll constantly be looking to improve my toolbox and have more things in there that work like how I need them to.
+

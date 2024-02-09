@@ -1,0 +1,15 @@
+##### What impressed you about Scott Jones's performance?
+
+Scott has stepped up recently to provide Technical Leadership support across both billing teams and this has been a huge help to the team and myself. When I ask for Scotts help to define and approach for GCP I am confident he will take this away and come back with a well thought out solution, engaging the whole team. When we have to make challenging calls on team set up or functionality - Scott is able to translate that into something actionable for the team, being fair in that things might not be in the direction we want, but supporting the overall decisions and helping to make the most of the situation and seeing things as an opportunity He has helped me work through complex situations, often relating to people and workloads and offered a refreshing, practical and unbiased view . He is happy to get his hands dirty and work together with other members of team, leading by doing, for example pairing on the mock server work with Psyduck to increase knowledge sharing. He has made a good presence in PI planning with key stakeholders who trust his opinion and always makes himself available, often for calls at short notice and supporting the overall sizing and estimation. Scott has really challenged himself in this space and left into it with passion and enthusiasm. The more he takes on the more the space seems to grow! Id like to thank Scott for his continued support - not only in billing but wider in the tribe when needed too.
+
+##### Superpowers
+
+- Delighting the client
+- Communicate with empathy
+- Teaming
+- Solving problems
+- Developing yourself
+
+##### What do you think Scott Jones can improve?
+
+I think Scott does very well in both of these areas already, but this is where I would like to see him spend more of his time as we approach the end of the year and next year. There is a lot more that can be done in his role, meaning more work will need to be shared across the seniors and wider team and this is where I would like to see him driving the seniors to really consider how we meet our overall billing technical goals, push forward and share the successes of our technical enhancements between the two teams and keep on the same path. I would like to see him sharing his strategic thinking with the seniors and helping them to understand why certain decisions have been taken and how they can change their approach and way of thinking to influence it (for example conversations with our ukis team when they don't go to plan in terms of approach and how we can come back from that and be more resilient) There is such a mix of people and strengths in the billing team and Id like him to support me in terms of harnessing end of year feedback and allowing some of the quieter people in the team find their opportunities and shine
