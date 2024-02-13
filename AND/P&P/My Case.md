@@ -1,13 +1,3 @@
-
-| Name | Scott Jones |
-| ---- | ---- |
-| Squad | Kenny |
-| Proposal | 5.1 -5.2 |
-| Career Growth Team | Hazel Anderson, Bev Hullock, Rob Newman |
-| CGT Support? | ✅  ❌ |
-| Skills Mosaic | [Mosaic](https://docs.google.com/spreadsheets/d/1BXshzbg8LUgAmbuItbt-kRz3tM549PDkzPxs2aWHojM/edit?usp=sharing) |
-| Last Progression | Nov 22 |
-| Role | Tech Lead (Billing) - Sky |
 #### Summary of Growth
 
 When I left P&P in November I had a pretty solid idea of a few goals that I set myself early on which were aligned with what I was involved in at the time, and geared towards moving myself up to the next level in P&P. These goals were:
@@ -55,7 +45,7 @@ The thing I am actually most proud of is being selected for the [Adams Spotlight
 My greatest achievement on Sky is within Psyduck and within the Kerry project whereby I have had a strong hand in building out the mock server, in addition to working with solution designers and architects to get early sight and API spec sign-off which has given me all the pieces I need to work with the team to change their way of working to take the specs and sample/mock data as sources of truth with enough confidence we can begin work much earlier in the process. The net result of this has been shaving 4 months off of the Kerry delivery plan, bringing in scope one of my tech goals to migrate from the legacy bill app to the new one this calendar year.
 #### Squad Lead Summary
 
-@Hazel - I need to get something from you for this please :)
+Scott's growth over the last 12 months has been impressive to watch. He has taken on a significant amount of additional responsibilities across client and squad, acting as line manager for 2 ANDis and stepped into a Tech Lead role at Sky's request. His insights and awareness are of huge benefit to me, and this is also reflected in the feedback he receives from his client engagement. He's done a huge amount of personal development in parallel, and this effort cannot be understated. I fully support Scott's case and feel he's demonstrating the skills required of a Level 5.2
 #### Whats Next?
 
 My primary short term goal is to go through a realignment of my role and my values. As a result of my goal last year and the turbulence within AND I've found myself being 110% Sky and only 10% AND which has resulted in me being less an ANDi than I should be, and more invested in Sky. To achieve that I'm looking to level up my delegation and management skills ensuring the things I'm responsible and accountable for still get done to the best possible quality, but also that its done by the people best placed to do it and not always me.
