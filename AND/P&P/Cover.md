@@ -7,5 +7,5 @@
 | Career Growth Team | Hazel Anderson, Bev Hullock, Rob Newman |
 | Skills Mosaic | Last reviewed by Karl Hadwen November 2023 |
 | Does your Career Growth Team support this case? | ✅ |
-| Links | [Mosaic](https://docs.google.com/spreadsheets/d/1BXshzbg8LUgAmbuItbt-kRz3tM549PDkzPxs2aWHojM/edit?usp=sharing)<br>[My Case](/AND/P&P/My%20Case.md) |
+| Links | [Mosaic](https://docs.google.com/spreadsheets/d/1BXshzbg8LUgAmbuItbt-kRz3tM549PDkzPxs2aWHojM/edit?usp=sharing)<br>[My Case](/AND/P&P/My%20Case.md)<br>[Feedback](/AND/P&P/Details/Feedback.md) |
 
