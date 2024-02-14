@@ -46,6 +46,10 @@ My greatest achievement on Sky is within Psyduck and within the Kerry project wh
 #### Squad Lead Summary
 
 Scott's growth over the last 12 months has been impressive to watch. He has taken on a significant amount of additional responsibilities across client and squad, acting as line manager for 2 ANDis and stepped into a Tech Lead role at Sky's request. His insights and awareness are of huge benefit to me, and this is also reflected in the feedback he receives from his client engagement. He's done a huge amount of personal development in parallel, and this effort cannot be understated. I fully support Scott's case and feel he's demonstrating the skills required of a Level 5.2
+
+#### Career Coach Summary
+
+As Scott’s Career Coach, I saw a significant and marked change in his commitment to personal growth over the last 14 months.  He’s fully embraced his Career Growth Team, and our Coaching sessions, to help him achieve the goals he set out for himself.  His commitment to his personal growth and development has been exceptional, striving for excellence and pro-actively seeking out real world opportunities to put his new found skills into practice.  Scott has worked incredibly hard for himself and has become the role model coachee!
 #### Whats Next?
 
 My primary short term goal is to go through a realignment of my role and my values. As a result of my goal last year and the turbulence within AND I've found myself being 110% Sky and only 10% AND which has resulted in me being less an ANDi than I should be, and more invested in Sky. To achieve that I'm looking to level up my delegation and management skills ensuring the things I'm responsible and accountable for still get done to the best possible quality, but also that its done by the people best placed to do it and not always me.
